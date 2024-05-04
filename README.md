@@ -1,19 +1,19 @@
 # 🏄‍♂️ Aditya Chand
 
-**`Digital Artisan (Developer/Filmmaker/Creator): Crafting Code and Storytelling`**
+**`Digital Artisan (Developer/Videomaker/Creator): Crafting Code and Storytelling`**
 
 I'm Aditya Chand, a third-year B.Tech student majoring in Information Technology. I'm a modern Digital Artisan, skilled in Android development with Kotlin, web development, and crafting trading bots. My passion lies in enhancing user experiences and optimizing financial strategies through innovative technology solutions. As a full-stack developer and content creator, I immerse myself in every project, infusing authenticity and purpose. On my YouTube channel, "[Aditya Chand][youtube]" I share insights into my journey, inviting viewers into my world of technology, creativity, and problem-solving. Eager to contribute to technological advancements, I aim to make a lasting impact in the digital landscape.
 
  <p align="left">
       <a href="https://www.youtube.com/channel/UCmJzHCvSersVPFzj6bRFsjg?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCmJzHCvSersVPFzj6bRFsjg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
 </a>
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://www.youtube.com/channel/UCmJzHCvSersVPFzj6bRFsjg">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCmJzHCvSersVPFzj6bRFsjg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/adiityack?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/adiityack?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/adiityack?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/adiityack?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
@@ -31,10 +31,13 @@ I'm Aditya Chand, a third-year B.Tech student majoring in Information Technology
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img align="left" alt="AndroidStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 
 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
 <br />
 
 #
@@ -47,21 +50,27 @@ I'm Aditya Chand, a third-year B.Tech student majoring in Information Technology
 [![Set Matrix Zeros(Java/Dsa)](https://ytcards.demolab.com/?id=b5vG_5lJ5tU&title=Set+Matrix+Zeros%28Java%2FDsa%29&lang=en&timestamp=1714658415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1243 "Set Matrix Zeros(Java/Dsa)")](https://youtu.be/Avy0YgiK1vc?si=Qpu7NIMLbFR7OQBi)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/adiityack?sub_confirmation=1)
+[![Subscribe For More](https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCmJzHCvSersVPFzj6bRFsjg?sub_confirmation=1)
 
 #
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiityack&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=adiityack&theme=gruvbox&border_radius=4.5) -->
 
 #
 <!--
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+ <summary><h3>👨‍💻 Aditya Coding Journey</h3></summary>
+  Picture this: in the vast expanse of the digital world, there's me, Aditya Chand, a modern-day Digital Artisan. With Android development, web crafting, and trading bots as my tools, I'm on a mission to transform user experiences and revolutionize financial strategies through tech innovation.
+
+As a full-stack developer and content creator, I weave stories that resonate, infusing each project with authenticity. On my YouTube channel, 'Aditya Chand,' I invite you into a realm where technology, creativity, and problem-solving converge.
+
+But amidst my journey, there's a dream that never faded - to birth my own app, my own creation. So, with steely resolve, I pivot my focus, dedicating time to manifesting this vision.
+
+As the tale of my tech odyssey unfolds, it's a saga of passion, perseverance, and the relentless pursuit of innovation. Every step forward brings me closer to that dream, fueled by a burning desire to leave an indelible mark in the digital sphere.
 -->
-[website]: https://fkcodes.com
+[website]: https://adityacchand.netlify.app
 [youtube]: https://youtube.com/adiityack
