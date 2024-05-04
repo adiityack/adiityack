@@ -2,7 +2,7 @@
 
 **`Digital Artisan (Developer/Videomaker/Creator): Crafting Code and Storytelling`**
 
-I'm Aditya Chand, a third-year B.Tech student majoring in Information Technology. I'm a modern Digital Artisan, skilled in Android development with Kotlin, web development, and crafting trading bots. My passion lies in enhancing user experiences and optimizing financial strategies through innovative technology solutions. As a full-stack developer and content creator, I immerse myself in every project, infusing authenticity and purpose. On my YouTube channel, "[Aditya Chand][youtube]" I share insights into my journey, inviting viewers into my world of technology, creativity, and problem-solving. Eager to contribute to technological advancements, I aim to make a lasting impact in the digital landscape.
+I'm Aditya Chand, a third-year B.Tech student majoring in Information Technology. I'm a modern Digital Artisan, skilled in Android development with Kotlin, web development, and crafting trading bots. My passion lies in enhancing user experiences and optimizing financial strategies through innovative technology solutions. As a full-stack developer and content creator, I immerse myself in every project, infusing authenticity and purpose. On my YouTube channel, "[Aditya Chand](https://www.youtube.com/channel/UCmJzHCvSersVPFzj6bRFsjg?sub_confirmation=1)" I share insights into my journey, inviting viewers into my world of technology, creativity, and problem-solving. Eager to contribute to technological advancements, I aim to make a lasting impact in the digital landscape.
 
  <p align="left">
       <a href="https://www.youtube.com/channel/UCmJzHCvSersVPFzj6bRFsjg?sub_confirmation=1">
@@ -51,6 +51,8 @@ I'm Aditya Chand, a third-year B.Tech student majoring in Information Technology
 <!-- END YOUTUBE-CARDS -->
 
 [![Subscribe For More](https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCmJzHCvSersVPFzj6bRFsjg?sub_confirmation=1)
+[![Website](https://custom-icon-badges.demolab.com/badge/-Website-yellow?style=for-the-badge&logo=video&logoColor=white)](https://adityacchand.netlify.app)
+
 
 #
 
@@ -73,4 +75,4 @@ But amidst my journey, there's a dream that never faded - to birth my own app, m
 As the tale of my tech odyssey unfolds, it's a saga of passion, perseverance, and the relentless pursuit of innovation. Every step forward brings me closer to that dream, fueled by a burning desire to leave an indelible mark in the digital sphere.
 -->
 [website]: https://adityacchand.netlify.app
-[youtube]: https://youtube.com/adiityack
+[youtube]: https://www.youtube.com/channel/UCmJzHCvSersVPFzj6bRFsjg?sub_confirmation=1
