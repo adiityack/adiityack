@@ -2,7 +2,7 @@
 
 **`Digital Artisan (Developer/Videomaker/Creator): Crafting Code and Storytelling`**
 
-I'm Aditya Chand, a third-year B.Tech student majoring in Information Technology. I'm a modern Digital Artisan, skilled in Android development with Kotlin, web development, and crafting trading bots. My passion lies in enhancing user experiences and optimizing financial strategies through innovative technology solutions. As a full-stack developer and content creator, I immerse myself in every project, infusing authenticity and purpose. On my YouTube channel, "[Aditya Chand](https://www.youtube.com/channel/UCmJzHCvSersVPFzj6bRFsjg?sub_confirmation=1)" I share insights into my journey, inviting viewers into my world of technology, creativity, and problem-solving. Eager to contribute to technological advancements, I aim to make a lasting impact in the digital landscape.
+I'm Aditya Chand, a third-year B.Tech student majoring in Information Technology. I'm a modern Digital Artisan, skilled in Android development with Kotlin, web development, and crafting trading bots. My passion lies in enhancing user experiences and optimizing financial strategies through innovative technology solutions. As a full-stack developer, I immerse myself in every project, infusing authenticity and purpose. On my YouTube channel, "[Aditya Chand](https://www.youtube.com/channel/UCmJzHCvSersVPFzj6bRFsjg?sub_confirmation=1)" I share insights into my journey, inviting viewers into my world of technology, creativity, and problem-solving. Eager to contribute to technological advancements, I aim to make a lasting impact in the digital landscape.
 
  <p align="left">
       <a href="https://www.youtube.com/channel/UCmJzHCvSersVPFzj6bRFsjg?sub_confirmation=1">
