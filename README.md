@@ -4,7 +4,7 @@
 
 I'm Aditya Chand, a third-year B.Tech student majoring in Information Technology. I'm a modern Digital Artisan, skilled in Android development with Kotlin, web development, and crafting trading bots. My passion lies in enhancing user experiences and optimizing financial strategies through innovative technology solutions. As a full-stack developer, I immerse myself in every project, infusing authenticity and purpose. On my YouTube channel, "[Aditya Chand](https://www.youtube.com/channel/UCmJzHCvSersVPFzj6bRFsjg?sub_confirmation=1)" I share insights into my journey, inviting viewers into my world of technology, creativity, and problem-solving. Eager to contribute to technological advancements, I aim to make a lasting impact in the digital landscape.
 
- <p align="left">
+<p align="left">
       <a href="https://www.youtube.com/channel/UCmJzHCvSersVPFzj6bRFsjg?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCmJzHCvSersVPFzj6bRFsjg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
 </a>
@@ -14,6 +14,8 @@ I'm Aditya Chand, a third-year B.Tech student majoring in Information Technology
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/adiityack?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/adiityack?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/adiityack?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/adiityack/otp_based_fraud_prevention_secure.git">
+         <img alt="OTP Based Fraud Prevention" title="View my repository" src="https://custom-icon-badges.demolab.com/github/stars/adiityack/otp_based_fraud_prevention_secure?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Fraud%20Prevention%20Repo"/></a>
    </p>
 
 ---
@@ -63,16 +65,31 @@ I'm Aditya Chand, a third-year B.Tech student majoring in Information Technology
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=adiityack&theme=gruvbox&border_radius=4.5) -->
 
 #
-<!--
+
+### 📁 Projects
+
+- **[OTP-Based Fraud Prevention System](https://github.com/adiityack/otp_based_fraud_prevention_secure.git)**: Developed a secure OTP-based system to prevent fraud, showcased at the FINXTHON hackathon where my team secured 3rd place.
+- **[Other Projects](https://github.com/adiityack?tab=repositories)**: Explore my GitHub repositories for various projects demonstrating my skills in web development, Android development, and more.
+
 <details>
- <summary><h3>👨‍💻 Aditya Coding Journey</h3></summary>
-  Picture this: in the vast expanse of the digital world, there's me, Aditya Chand, a modern-day Digital Artisan. With Android development, web crafting, and trading bots as my tools, I'm on a mission to transform user experiences and revolutionize financial strategies through tech innovation.
+ <summary><h3>✍️ About Me</h3></summary>
 
-As a full-stack developer and content creator, I weave stories that resonate, infusing each project with authenticity. On my YouTube channel, 'Aditya Chand,' I invite you into a realm where technology, creativity, and problem-solving converge.
+I’m an aspiring developer with a strong focus on creating user-friendly applications. I enjoy tackling complex problems and turning ideas into reality through code. My journey in tech has been a blend of creativity and logic, and I love sharing my experiences with others. Through my YouTube channel, I aim to inspire fellow enthusiasts and offer insights into my learning process. 
 
-But amidst my journey, there's a dream that never faded - to birth my own app, my own creation. So, with steely resolve, I pivot my focus, dedicating time to manifesting this vision.
+When I'm not coding, you can find me exploring new technologies, reading, or engaging with the tech community online. I believe in lifelong learning and constantly seek opportunities to grow and improve my skill set. My goal is to make a positive impact through technology and inspire others along the way.
 
-As the tale of my tech odyssey unfolds, it's a saga of passion, perseverance, and the relentless pursuit of innovation. Every step forward brings me closer to that dream, fueled by a burning desire to leave an indelible mark in the digital sphere.
--->
-[website]: https://adityacchand.netlify.app
-[youtube]: https://www.youtube.com/channel/UCmJzHCvSersVPFzj6bRFsjg?sub_confirmation=1
+</details>
+
+<details>
+ <summary><h3>💼 Work Experience</h3></summary>
+
+  **Founding Member of CodeSpace**
+  - Launched the first technical club at GL Bajaj, building a community of over 700 members within a year.
+  - Organized workshops, hackathons, and events to enhance technical skills and promote collaboration among students.
+
+  **3rd Place in FINXTHON Hackathon**
+  - Led a team in a national-level hackathon organized by Q2, developing an innovative OTP-based fraud prevention system.
+  - Collaborated with team members to implement features that enhanced security and user experience.
+
+</details>
+
